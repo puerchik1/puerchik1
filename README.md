@@ -35,7 +35,7 @@ Docker · Git · Linux · Jira · Confluence · Evawiki
 ## Experience
 
 ### 🏢 VkusVill — Data Engineer
-**04/2025 – Present · 1+ year **
+**04/2025 – Present · 1+ year**
 
 - **Architected** an automated DQ check queue system in PostgreSQL (FIFO state machine, deduplication) — slashing manual check authoring by **~44.6%** across a team of 5+ analysts.
 - **Enabled** 10+ analysts to run DQ checks independently — reducing time-to-first-check from ~2 hours to **13 minutes** via a self-service Jupyter Notebook with embedded instructions and ready-to-run code.
