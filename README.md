@@ -55,7 +55,7 @@ Docker · Git · Linux · Jira · Confluence · Evawiki
 - **Implemented** data validation and monitoring layer across ETL pipelines — reducing error rate by **58.9%** and accelerating incident root-cause diagnosis from hours to under 15 minutes.
 - **Integrated** MongoDB for semi-structured data storage and synchronized it with the analytical layer — expanding analytics data coverage by **23%**.
 
-`Python` `Airflow` `HDFS` `ClickHouse` `MongoDB` `Grafana` `MetaBase` `Git` `Jira` `Confluence`
+`Python` `Airflow` `HDFS` `ClickHouse` `MongoDB` `Grafana` 
 
 ---
 
@@ -67,7 +67,7 @@ Docker · Git · Linux · Jira · Confluence · Evawiki
 - **Engineered** end-to-end ETL pipelines (Python, SQL, REST API, Airflow) with automated data collection, validation, and cleansing — reducing manual engineering involvement by **70–80%**.
 - **Built** a real-time Kafka → ClickHouse streaming pipeline using Materialized Views for event processing and structured ingestion — enabling sub-minute data freshness for analytical workloads.
 
-`Python` `PySpark` `Airflow` `Kafka` `ClickHouse` `PostgreSQL` `Power BI` `Superset` `Git` `Confluence`
+`Python` `PySpark` `Airflow` `Kafka` `Power BI` 
 
 ---
 
