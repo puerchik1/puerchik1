@@ -35,8 +35,7 @@ Docker · Git · Linux · Jira · Confluence · Evawiki
 ## Experience
 
 ### 🏢 VkusVill — Data Engineer
-**04/2025 – Present · 1+ year · Moscow (Remote)**
-*One of Russia's largest grocery retail chains — 1,500+ stores, 18M+ customers*
+**04/2025 – Present · 1+ year **
 
 - **Architected** an automated DQ check queue system in PostgreSQL (FIFO state machine, deduplication) — slashing manual check authoring by **~44.6%** across a team of 5+ analysts.
 - **Enabled** 10+ analysts to run DQ checks independently — reducing time-to-first-check from ~2 hours to **13 minutes** via a self-service Jupyter Notebook with embedded instructions and ready-to-run code.
@@ -48,8 +47,7 @@ Docker · Git · Linux · Jira · Confluence · Evawiki
 ---
 
 ### 🏢 Sber — Data Engineer
-**04/2024 – 04/2025 · 1 year · Moscow**
-*Russia's largest bank and technology company — 100M+ customers*
+**04/2024 – 04/2025 · 1 year**
 
 - **Designed** and optimized analytical data marts in PostgreSQL & ClickHouse using CTEs, window functions, and complex aggregations — reducing reporting latency by **41.2%** and improving data accuracy.
 - **Implemented** data validation and monitoring layer across ETL pipelines — reducing error rate by **58.9%** and accelerating incident root-cause diagnosis from hours to under 15 minutes.
@@ -60,8 +58,7 @@ Docker · Git · Linux · Jira · Confluence · Evawiki
 ---
 
 ### 🏢 Forss Technologies — Data Engineer
-**03/2022 – 03/2024 · 2 years · Saint Petersburg**
-*B2B software and data analytics company*
+**03/2022 – 03/2024 · 2 years**
 
 - **Optimized** ClickHouse performance via partitioning, sort keys, projections, and MergeTree Materialized Views — achieving **3.1–4.7×** reduction in heavy analytical query execution time.
 - **Engineered** end-to-end ETL pipelines (Python, SQL, REST API, Airflow) with automated data collection, validation, and cleansing — reducing manual engineering involvement by **70–80%**.
