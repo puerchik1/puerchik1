@@ -43,7 +43,7 @@ Docker · Git · Linux · Jira · Confluence · Evawiki
 - **Standardized** reusable Soda scan templates adopted by 5+ analysts — eliminating per-user infrastructure setup and reducing onboarding time from ~1 day to **under 1 hour**.
 - **Refactored** Airflow XCom payload size — reducing metadata overhead by **~37.6%**, eliminating DAG failures caused by oversized payloads and improving overall pipeline stability.
 
-`Python` `Apache Airflow` `Soda` `PostgreSQL` `ClickHouse` `Docker` `Git`
+`Python` `Apache Airflow` `Soda` `PostgreSQL` `ClickHouse` 
 
 ---
 
@@ -55,7 +55,7 @@ Docker · Git · Linux · Jira · Confluence · Evawiki
 - **Implemented** data validation and monitoring layer across ETL pipelines — reducing error rate by **58.9%** and accelerating incident root-cause diagnosis from hours to under 15 minutes.
 - **Integrated** MongoDB for semi-structured data storage and synchronized it with the analytical layer — expanding analytics data coverage by **23%**.
 
-`Python` `Airflow` `HDFS` `ClickHouse` `MongoDB` `Grafana` 
+`Python` `Airflow` `HDFS` `MongoDB` `Grafana` 
 
 ---
 
