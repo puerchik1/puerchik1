@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-tonypuer08%40gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:tonypuer08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--kostyukhin--de-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-kostyukhin-de/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)]([https://github.com/](https://github.com/puerchik1))
 
 </div>
 
