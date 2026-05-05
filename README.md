@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Data Engineer · 4+ years experience · GMT+3 · Remote Worldwide**
+**Data Engineer · 4+ years experience · GMT+3 · +1 564-888-9066**
 
 [![Email](https://img.shields.io/badge/Email-tonypuer08%40gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:tonypuer08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--kostyukhin--de-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-kostyukhin-de/)
