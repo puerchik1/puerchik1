@@ -4,7 +4,7 @@
 
 **Data Engineer · 4+ years experience · GMT+3 · +1 564-888-9066**
 
-[![Email](https://img.shields.io/badge/Email-tonypuer08%40gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:antonkostyukhin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-antonkostyukhin%40gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:antonkostyukhin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--kostyukhin--de-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-kostyukhin-de/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)]([https://github.com/](https://github.com/puerchik1))
 
